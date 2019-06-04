@@ -37,10 +37,20 @@
     }
 
     .contenido{
-      margin: 10px;
-      height: 30%;
+      margin:auto ;
+      width: 70%;
+      text-align: center;
+      vertical-align: center;
+      align-content: center;
+      align-items: center;
+     
     }
 
-    .encerrar{
-  
-    }
+.inserto {
+    border: 1px solid black;
+    width: 100%;
+}
+
+.salida {
+    background: #eee;
+}
