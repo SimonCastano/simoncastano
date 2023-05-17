@@ -20,7 +20,7 @@
 
 - 📽️ I regularly upload videos on [https://www.youtube.com/channel/UCFCkotll27xZXUakq7NXV5g](https://www.youtube.com/channel/UCFCkotll27xZXUakq7NXV5g)
 
-- 💬 Ask me about **Figma, Wordpress, React, PHP**
+- 💬 Ask me about **Figma, Design User interface, User Experience, Wordpress, React, PHP, and freelacing**
 
 - 📫 How to reach me **castanosimon2002@gmail.com**
 
