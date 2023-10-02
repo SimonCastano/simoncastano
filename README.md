@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon Castano</h1>
-<h3 align="center">Mid Fullstack Software Developer | React js | Javascript | Laravel | Php | Figma | Adobe Creative Suite | wordpress</h3>
+<h3 align="center">Senior product designer | Figma | Javascript | Php | Adobe Creative Suite | wordpress</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simoncastano&label=Profile%20views&color=0e75b6&style=flat" alt="simoncastano" /> </p>
 
@@ -12,15 +12,15 @@
 </picture>
 
 
-- 🔭 I’m currently working As a [FullStack developer And wordpress developer](https://simoncastano.com/)
+- 🔭 I’m currently working As a [Senior product designer](https://simoncastano.com/)
 
-- 🌱 I’m currently learning **Advanced React, Advanced Laravel and create themes and plugins for wordpress**
+- 🌱 I’m currently learning **Advanced React, Advanced Figma design systems and css**
 
 - 👨‍💻 All of my projects are available at [https://simoncastano.com/](https://simoncastano.com/)
 
-- 📽️ I regularly upload videos on [https://www.youtube.com/channel/UCFCkotll27xZXUakq7NXV5g](https://www.youtube.com/channel/UCFCkotll27xZXUakq7NXV5g)
+- 📽️ I regularly upload videos on [my youtube channel](https://www.youtube.com/channel/UCFCkotll27xZXUakq7NXV5g)
 
-- 💬 Ask me about **Figma, Design User interface, User Experience, Wordpress, React, PHP, and freelacing**
+- 💬 Ask me about **Figma, Design User interface, User Experience, Wordpress, css, javascript, and freelacing**
 
 - 📫 How to reach me **castanosimon2002@gmail.com**
 
