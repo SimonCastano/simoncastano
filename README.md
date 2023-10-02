@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon Castano</h1>
-<h3 align="center">Senior product designer | Figma | Javascript | Php | Adobe Creative Suite | wordpress</h3>
+<h3 align="center">Senior product designer | Figma | Javascript | CSS | Adobe Creative Suite | PHP | wordpress</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simoncastano&label=Profile%20views&color=0e75b6&style=flat" alt="simoncastano" /> </p>
 
